@@ -36,8 +36,8 @@ On
 
 ### Links
 
-- Solution URL: [https://github.com/faisalahmed11/interactive-light-on-off](https://github.com/faisalahmed11/interactive-light-on-off)
-- Live Site URL: [(https://faisalahmed11.github.io/interactive-light-on-off/)](https://faisalahmed11.github.io/interactive-light-on-off/)
+- Solution URL: [https://github.com/faisalahmed11/interactive-light](https://github.com/faisalahmed11/interactive-light)
+- Live Site URL: [(https://faisalahmed11.github.io/interactive-light/)](https://faisalahmed11.github.io/interactive-light/)
 
 ## My process
 
